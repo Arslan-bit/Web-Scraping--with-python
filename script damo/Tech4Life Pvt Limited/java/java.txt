@@ -1,0 +1,5 @@
+https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
+ https://techfor.netlify.apphttps://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+ https://techfor.netlify.apphttps://unpkg.com/swiper@8/swiper-bundle.min.js
+ https://techfor.netlify.apphttps://techfor.netlify.app/script.js
+ https://techfor.netlify.app
